@@ -12,6 +12,8 @@ User's Guide
     Spock <spock>
     Sardana-Taurus Widgets <taurus/index>
     Scans <scan>
+    Macro Environment <macro_environment>
+    Environment Variable Catalog <environment_variable_catalog>
     Standard macro catalog <standard_macro_catalog>
     Screenshots <screenshots>
     FAQ <faq>
